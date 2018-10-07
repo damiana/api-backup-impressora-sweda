@@ -1,0 +1,24 @@
+{
+  "name": "api-backup-impressora-sweda",
+  "version": "1.0.0",
+  "description": "api para armazenar o texto impresso na api-impressora-sweda",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damiana/api-backup-impressora-sweda.git"
+  },
+  "keywords": [
+    "stauts",
+    "sweda"
+  ],
+  "author": "Damiana Costa",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "nodemon": "^1.18.4"
+  }
+}
